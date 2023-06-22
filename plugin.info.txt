@@ -1,0 +1,7 @@
+base   somehtml
+author Atom Lee
+email  kabbala@users.noreply.github.com
+date   2023-06-23
+name   someHTML Plugin
+desc   accepts some HTML tag like <INS>.
+url    https://github.com/kabbala/dokuwiki-plugin-somehtml/
