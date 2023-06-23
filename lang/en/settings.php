@@ -1,2 +1,2 @@
 <?php
-$lang[‘ins’] = ‘<INS>…</INS>’;
+$lang['ins'] = '&lt;ins&gt;';

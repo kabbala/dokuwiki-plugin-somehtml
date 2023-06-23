@@ -1,2 +1,2 @@
 <?php
-$meta[‘ins’] = array('onoff');
+$meta['ins'] = array('onoff');
